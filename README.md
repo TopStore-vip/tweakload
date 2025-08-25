@@ -1,3 +1,5 @@
+See the latest release: https://github.com/TopStore-vip/tweakload/releases/latest
+
 Looking for **tweakload download**? The original site is sunset. This page explains the safest **tweakload alternative**—TopStore—so you can install tweaked iOS apps with one tap, no jailbreak. It works on iOS 9–18 (including **tweakload iOS 18** users) and provides an IPA fallback if certificates are revoked.
 
 👉 Get started: https://topstore.plus/tweakload
