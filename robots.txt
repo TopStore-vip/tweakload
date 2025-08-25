@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://topstore-vip.github.io/tweakload/sitemap.xml
